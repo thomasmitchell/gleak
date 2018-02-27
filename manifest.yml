@@ -1,0 +1,5 @@
+---
+applications:
+- name: gleak
+  memory: 256M
+  timeout: 60

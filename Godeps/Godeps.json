@@ -1,0 +1,9 @@
+{
+	"ImportPath": "gleak",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v71",
+	"Packages": [
+		"./..."
+	],
+	"Deps": []
+}
